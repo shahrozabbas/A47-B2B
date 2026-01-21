@@ -1,0 +1,8 @@
+{
+  "name": "A47 Newsroom Platform",
+  "description": "An enterprise-grade newsroom management platform featuring verified workflows, AI-assisted source validation, and real-time editorial collaboration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
